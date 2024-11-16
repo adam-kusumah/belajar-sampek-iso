@@ -1,0 +1,13 @@
+1. Pre-requisite
+  *Git & Github (Version Control System)
+  *Basic Terminal Usage
+  *Data Struktur & Algoritma
+  *SOLID, KISS< YAGNI (Design Pattern)
+  *License
+  *Semantic Versioning
+  *SSH
+  *HTTP/HTTPS
+  *Character Encodings
+
+2. Front-Ends
+3. Back-Ends
